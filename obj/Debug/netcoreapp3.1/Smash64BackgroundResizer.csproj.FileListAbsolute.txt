@@ -1,0 +1,17 @@
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer.deps.json
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer.runtimeconfig.json
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer.runtimeconfig.dev.json
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Smash64BackgroundResizer.pdb
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.csprojAssemblyReference.cache
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.AssemblyInfoInputs.cache
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.AssemblyInfo.cs
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.pdb
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/scottylinux/Documents/Smash64BackgroundResizer/obj/Debug/netcoreapp3.1/Smash64BackgroundResizer.csproj.CopyComplete
