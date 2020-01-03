@@ -1,5 +1,6 @@
 First of all: You need to install .Net Core 3.1: https://docs.microsoft.com/en-us/dotnet/core/install/
-You also need to install libgdiplus (for ubuntu, you can simply do sudo apt install libgdiplus)
+
+LINUX ONLY: You also need to install libgdiplus (for ubuntu, you can simply do sudo apt install libgdiplus)
 
 Next, all you have to do is open a terminal in this directiory and type "dotnet run (IMAGENAME).png" and your output will be output.png
 
