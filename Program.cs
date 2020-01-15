@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
@@ -19,7 +19,7 @@ namespace Smash64BackgroundResizer
                 //Image 2 is a 300x220 copy of the image if image 1 is (300, 263) 
                 if (bitmap1.Width == 300 && bitmap1.Height == 263)
                 {
-                    bitmap2 = ResizeBitmap(bitmap1, 300, 220);
+                    bitmap2 = ResizeBitmap(bitmap1, 300, 263);
                 }
                 //If image1 is (300, 220), then make image1 (300, 263)
                 else if (bitmap1.Height == 220)
@@ -37,17 +37,17 @@ namespace Smash64BackgroundResizer
                 //bitmap2.Save("output2.png", System.Drawing.Imaging.ImageFormat.Png);
                 //return;
 
-                for (int i = 0; i < 7; i++)
+                for (int i = 0; i < 6; i++)
                 {
                     CopyRow(bitmap1, bitmap2, i, i);
                 }
-                CopyRow(bitmap1, bitmap2, 6, 7);
+                CopyRow(bitmap1, bitmap2, 5, 6);
 
                 int count = 0;
                 int row = 0;
 
                 //From row 8, every 5th row is a duplicate
-                for (int i = 8; i < 221; i++)
+                for (int i = 7; i < 221; i++)
                 {
                     if (i + row > 263)
                     {
@@ -55,7 +55,7 @@ namespace Smash64BackgroundResizer
                     }
                     CopyRow(bitmap1, bitmap2, i - 1, i + row);
                     count++;
-                    if (count == 5 && i < 253)
+                    if (count == 5 && i < 263)
                     {
                         row++;
                         CopyRow(bitmap1, bitmap2, i - 1, i + row);
